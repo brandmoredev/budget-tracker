@@ -1,0 +1,3 @@
+.customToggle::after {
+  display: none !important;
+}

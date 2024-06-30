@@ -5,6 +5,9 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: url(/public/assets/side-wave_background.png);
+  background-repeat: none;
+  background-size: cover;
 }
 
 code {
